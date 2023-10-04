@@ -1,0 +1,50 @@
+DirectoryIndex index.php
+AddDefaultCharset utf-8
+Options +FollowSymlinks -MultiViews -Indexes  
+
+RewriteEngine On
+RewriteCond %{THE_REQUEST} /service/([^?\ /]+)
+RewriteRule ^service/(.*)$ serviceDetails.php?service_id=%1 [L]
+
+RewriteEngine on
+RewriteRule ^allservice?$ all_service.php
+
+RewriteEngine on
+RewriteRule ^ourprocess?$ our_process.php
+
+RewriteEngine On
+RewriteCond %{THE_REQUEST} /blog/([^?\ /]+)
+RewriteRule ^blog/(.*)$ blogDetails.php?blog_id=%1 [L]
+
+RewriteEngine on
+RewriteRule ^blogs?$ blogList.php
+
+RewriteEngine on
+RewriteRule ^about?$ about_us.php
+
+RewriteEngine on
+RewriteRule ^mission&vision?$ mission_vision.php
+
+RewriteEngine on
+RewriteRule ^terms-and-conditions?$ termsAndconditons.php
+
+RewriteEngine on
+RewriteRule ^privacy-policy?$ privacyPolicy.php
+
+RewriteEngine on
+RewriteRule ^carrer?$ carrer.php
+
+RewriteEngine on
+RewriteRule ^contactus?$ contact_us.php
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^infinitybusinesssolution\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.infinitybusinesssolution\.org$
+RewriteRule ^/?$ "https\:\/\/infinitybusinesssolution\.org\/" [R=301,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php72” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php72 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

@@ -1,0 +1,4 @@
+[24-Aug-2023 16:30:04 Asia/Dhaka] PHP Warning:  move_uploaded_file(./images/all/64e7312c8f8451692873004.png): failed to open stream: No such file or directory in /home/infinitybusiness/public_html/include/carrer_inc.php on line 11
+[24-Aug-2023 16:30:04 Asia/Dhaka] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7idCyQ' to './images/all/64e7312c8f8451692873004.png' in /home/infinitybusiness/public_html/include/carrer_inc.php on line 11
+[24-Aug-2023 16:32:10 Asia/Dhaka] PHP Warning:  move_uploaded_file(images/all/64e731aa990711692873130.png): failed to open stream: No such file or directory in /home/infinitybusiness/public_html/include/carrer_inc.php on line 11
+[24-Aug-2023 16:32:10 Asia/Dhaka] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEWksGY' to 'images/all/64e731aa990711692873130.png' in /home/infinitybusiness/public_html/include/carrer_inc.php on line 11

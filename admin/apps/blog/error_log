@@ -1,0 +1,2 @@
+[19-Aug-2023 16:38:42 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/blog/loadBlog.php on line 6
+[19-Aug-2023 16:38:42 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/blog/loadBlog.php on line 6

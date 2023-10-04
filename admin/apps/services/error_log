@@ -1,0 +1,15 @@
+[19-Aug-2023 16:55:35 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[19-Aug-2023 16:55:35 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[21-Aug-2023 12:47:51 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[21-Aug-2023 12:47:51 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 16:36:59 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 16:36:59 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 16:38:12 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 16:38:12 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 17:44:41 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 17:44:41 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 18:02:22 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 18:02:22 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 18:54:35 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 18:54:35 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[29-Aug-2023 11:58:24 Asia/Dhaka] PHP Warning:  unlink(../../../public/upload/): Is a directory in /home/infinitybusiness/public_html/admin/apps/services/delete.php on line 13

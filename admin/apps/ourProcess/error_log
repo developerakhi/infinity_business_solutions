@@ -1,0 +1,143 @@
+[19-Aug-2023 16:55:35 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[19-Aug-2023 16:55:35 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[21-Aug-2023 12:47:51 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[21-Aug-2023 12:47:51 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 16:36:59 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 16:36:59 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 16:38:12 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 16:38:12 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 17:44:41 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 17:44:41 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 18:02:22 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 18:02:22 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 18:54:35 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[22-Aug-2023 18:54:35 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/services/loadServices.php on line 6
+[28-Aug-2023 16:35:37 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 17:00:42 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 17:00:48 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:00:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:00:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:05:28 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:05:35 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:10:56 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:13:37 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:13:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:13:53 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:17:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:20:39 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:24:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:24:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:24:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:25:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:26:38 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/loadProcess.php on line 138
+[28-Aug-2023 18:32:09 Asia/Dhaka] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 25
+[28-Aug-2023 18:51:37 Asia/Dhaka] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 25
+[29-Aug-2023 10:55:06 Asia/Dhaka] PHP Warning:  unlink(../../../public/upload/): Is a directory in /home/infinitybusiness/public_html/admin/apps/ourProcess/delete.php on line 13
+[29-Aug-2023 11:25:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 24
+[29-Aug-2023 11:26:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 24
+[29-Aug-2023 05:30:06 UTC] PHP Warning:  mysqli_connect() expects parameter 1 to be string, object given in /home/infinitybusiness/public_html/admin/apps/functions/db_connect.php on line 4
+[29-Aug-2023 11:30:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 24
+[29-Aug-2023 11:32:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 24
+[29-Aug-2023 11:33:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 25
+[29-Aug-2023 11:35:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 25
+[29-Aug-2023 11:35:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 25
+[29-Aug-2023 11:36:01 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 25
+[29-Aug-2023 11:36:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_querry() in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php on line 25
+[29-Aug-2023 11:57:25 Asia/Dhaka] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 10
+[29-Aug-2023 11:57:25 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:1) in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 11
+[29-Aug-2023 11:57:35 Asia/Dhaka] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 10
+[29-Aug-2023 11:57:35 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:1) in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 11
+[29-Aug-2023 12:01:12 Asia/Dhaka] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 10
+[29-Aug-2023 12:01:12 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:1) in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 11
+[29-Aug-2023 12:01:57 Asia/Dhaka] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 10
+[29-Aug-2023 12:01:57 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:1) in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 11
+[29-Aug-2023 12:02:08 Asia/Dhaka] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 10
+[29-Aug-2023 12:02:08 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:1) in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 11
+[29-Aug-2023 12:06:07 Asia/Dhaka] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 10
+[29-Aug-2023 12:06:07 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:1) in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 11
+[29-Aug-2023 12:06:43 Asia/Dhaka] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 10
+[29-Aug-2023 12:06:43 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinitybusiness/public_html/admin/apps/ourProcess/process_insert_code.php:1) in /home/infinitybusiness/public_html/admin/apps/functions/functions.php on line 11
+[29-Aug-2023 12:30:59 Asia/Dhaka] PHP Warning:  unlink(../../../public/upload/): Is a directory in /home/infinitybusiness/public_html/admin/apps/ourProcess/delete.php on line 13
+[29-Aug-2023 12:31:03 Asia/Dhaka] PHP Warning:  unlink(../../../public/upload/): Is a directory in /home/infinitybusiness/public_html/admin/apps/ourProcess/delete.php on line 13
+[29-Aug-2023 12:31:29 Asia/Dhaka] PHP Warning:  unlink(../../../public/upload/): Is a directory in /home/infinitybusiness/public_html/admin/apps/ourProcess/delete.php on line 13

@@ -1,0 +1,8 @@
+[24-Aug-2023 18:28:07 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/infinitybusiness/public_html/admin/apps/career/loadCareer.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/career/loadCareer.php on line 150
+[24-Aug-2023 18:28:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/infinitybusiness/public_html/admin/apps/career/loadCareer.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/infinitybusiness/public_html/admin/apps/career/loadCareer.php on line 150

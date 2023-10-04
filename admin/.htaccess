@@ -1,0 +1,14 @@
+DirectoryIndex index.php
+AddDefaultCharset utf-8
+
+Options +FollowSymlinks -MultiViews -Indexes  
+
+RewriteEngine on
+RewriteRule ^([0-9a-zA-Z_]+)$ cat_page_view.php?actionID=$1 [L]
+
+RewriteEngine on
+RewriteRule ^([0-9a-zA-Z_]+)/([0-9a-zA-Z_]+)$ cat_page_view.php?actionID=$1&ItemID=$2 [L]
+
+RewriteEngine on
+RewriteRule ^([0-9a-zA-Z_]+)/([0-9a-zA-Z_]+)/([0-9a-zA-Z_]+)$ cat_page_view.php?actionID=$1&ItemID=$2&msgID=$3 [L]
+

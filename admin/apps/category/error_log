@@ -1,0 +1,6 @@
+[19-Aug-2023 16:38:44 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/category/load_category.php on line 4
+[19-Aug-2023 16:38:44 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/category/load_category.php on line 4
+[22-Aug-2023 16:37:06 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/category/load_category.php on line 4
+[22-Aug-2023 16:37:06 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/category/load_category.php on line 4
+[22-Aug-2023 16:38:51 Asia/Dhaka] PHP Notice:  Undefined index: page_name in /home/infinitybusiness/public_html/admin/apps/category/load_category.php on line 4
+[22-Aug-2023 16:38:51 Asia/Dhaka] PHP Notice:  Undefined index: catID in /home/infinitybusiness/public_html/admin/apps/category/load_category.php on line 4
